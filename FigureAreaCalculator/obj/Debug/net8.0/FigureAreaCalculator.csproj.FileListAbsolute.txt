@@ -1,0 +1,11 @@
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\bin\Debug\net8.0\FigureAreaCalculator.deps.json
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\bin\Debug\net8.0\FigureAreaCalculator.dll
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\bin\Debug\net8.0\FigureAreaCalculator.pdb
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.AssemblyInfo.cs
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.dll
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\refint\FigureAreaCalculator.dll
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\FigureAreaCalculator.pdb
+C:\Users\maksb\RiderProjects\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net8.0\ref\FigureAreaCalculator.dll
